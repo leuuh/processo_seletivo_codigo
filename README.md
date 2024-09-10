@@ -1,6 +1,6 @@
 # Processo Seletivo - Códigos de Programação
 
-Bem-vindo ao repositório de códigos desenvolvidos para o processo seletivo! 🚀 Este repositório contém soluções para uma série de desafios de programação que foram apresentados durante a seleção. Aqui, você encontrará a implementação de várias questões com explicações detalhadas para cada uma delas.
+Bem-vindo ao repositório de códigos desenvolvidos para o processo o seletivo! 🚀 Este repositório contém soluções para uma série de desafios de programação que foram apresentados na seleção. Aqui, você encontrará a implementação de várias questões com explicações detalhadas para cada uma delas.
 
 ## Índice dos Códigos
 
